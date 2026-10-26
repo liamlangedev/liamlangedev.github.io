@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#14171f"/>
-  <path d="M24 16v26h18v6H18V16h6z" fill="#eef2f8"/>
-  <circle cx="44" cy="20" r="4" fill="#3d87f5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Liam Lange">
+  <!-- The site's card, reduced to its silhouette: cream ground, one skewed
+       ink sheet, one salmon rule. Legible at 16px because there are no
+       letterforms - only the shape the site is built from. -->
+  <rect width="64" height="64" fill="#ded2c6" />
+  <path d="M13 11 L59 5 L52 59 L6 55 Z" fill="#3b352f" />
+  <path d="M15 37.5 L38 35.5 L37.2 43.5 L14.2 45.8 Z" fill="#c4553f" />
 </svg>
