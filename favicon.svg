@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Liam Lange">
-  <!-- LL monogram. Stems are 8 units wide and the gap between them is 12
-       units - 3px at 16px, the minimum that still reads as two letters in a
-       tab. Feet stay short so the left foot cannot bridge the gap. -->
-  <rect width="64" height="64" fill="#ded2c6" />
-  <path d="M6 10 H14 V41 H20 V49 H6 Z" fill="#3b352f" />
-  <path d="M31 10 H39 V41 H45 V49 H31 Z" fill="#3b352f" />
-  <path d="M31 10 H39 V17 H31 Z" fill="#b04a41" />
+  <!-- LL monogram, centred on a rounded cream tile. The whole mark is drawn
+       inside a 40x34 box (x 12-52, y 15-49) so the optical centre matches the
+       tile centre; the gap between the stems stays 12 units, which is 3px at
+       16px - the minimum that still reads as two letters in a tab. -->
+  <rect width="64" height="64" rx="14" fill="#ded2c6" />
+  <path d="M12 15 H20 V41 H26 V49 H12 Z" fill="#3b352f" />
+  <path d="M38 15 H46 V41 H52 V49 H38 Z" fill="#3b352f" />
+  <path d="M38 15 H46 V22 H38 Z" fill="#b04a41" />
 </svg>
