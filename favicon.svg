@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Liam Lange">
-  <!-- The site's card, reduced to its silhouette: cream ground, one skewed
-       ink sheet, one salmon rule. Legible at 16px because there are no
-       letterforms - only the shape the site is built from. -->
+  <!-- LL monogram. Stems are 8 units wide and the gap between them is 12
+       units - 3px at 16px, the minimum that still reads as two letters in a
+       tab. Feet stay short so the left foot cannot bridge the gap. -->
   <rect width="64" height="64" fill="#ded2c6" />
-  <path d="M13 11 L59 5 L52 59 L6 55 Z" fill="#3b352f" />
-  <path d="M15 37.5 L38 35.5 L37.2 43.5 L14.2 45.8 Z" fill="#c4553f" />
+  <path d="M6 10 H14 V41 H20 V49 H6 Z" fill="#3b352f" />
+  <path d="M31 10 H39 V41 H45 V49 H31 Z" fill="#3b352f" />
+  <path d="M31 10 H39 V17 H31 Z" fill="#b04a41" />
 </svg>
